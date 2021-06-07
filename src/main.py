@@ -1,5 +1,4 @@
 def main():
-    #escribe tu código abajo de esta línea
     suma = 0
     num = int(input("Teclea un número: "))
     while num != 0:
