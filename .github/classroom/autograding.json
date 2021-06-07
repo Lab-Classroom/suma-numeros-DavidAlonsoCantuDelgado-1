@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python3 src/main.py",
       "input": "1\r\n2\r\n3\r\n0",
-      "output": "Teclea un número: 1\r\nTeclea un número: 2\r\nTeclea un número: 3\r\nTeclea un número: 0\r\nLa suma de todos los números es: 6",
+      "output": "Teclea un número: \r\nTeclea un número: \r\nTeclea un número: \r\nTeclea un número: \r\nLa suma de todos los números es: 6",
       "comparison": "included",
       "timeout": 10,
       "points": 100
